@@ -1,0 +1,10 @@
+{
+  "name": "cadastral",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "private": true,
+  "dependencies": {
+    "pg": "^7.4.1"
+  }
+}
